@@ -18,10 +18,10 @@ echo "\n$yellow
 |____/| .__/|_|\__,_|\___|_|  |____/ \___/ \__|
       |_|";
 echo "\n$blue
-Author  : Cvar1984
+Author  : Mr.ION
 Code    : PHP
-Github  : http://github.com/Cvar1984
-Team    : BlackHole Security
+Github  : http://github.com/DevOnOFW
+Team    : ION Security
 Version : 3.1 ( Alpha )
 Date    : 15-03-2018\n";
 echo "$red=========================== Cvar1984 ))=====(@)>$green\n";
